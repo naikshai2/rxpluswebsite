@@ -89,7 +89,7 @@ figure {
 }
 
 .page-border .bottom-border, .page-border .left-border, .page-border .right-border, .page-border .top-border {
-    background: #ff00;
+    background: #ff0000;
     position: fixed;
     z-index: 9999;
 }
@@ -232,6 +232,7 @@ section {
 
 .col-1 {
     width: 100%;
+    height: 100%;
 }
 
 .col-2 {
@@ -353,7 +354,7 @@ section {
 }
 
 #logo img {
-    max-height: 22px;
+    max-height: 75px;
     vertical-align: middle;
     margin-right: 15px;
 }
@@ -1598,7 +1599,7 @@ blockquote {
 }
 
 .la-ball-triangle-path.la-dark {
-    color: #333;
+    color: #ff0000;
 }
 
 .la-ball-triangle-path > div {
