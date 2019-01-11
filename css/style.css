@@ -498,7 +498,8 @@ section {
 }
 
 #header nav a:hover {
-    opacity: 0.6;
+    color: #ff0000;
+    
 }
 
 /*Navigation Solid*/
